@@ -119,7 +119,7 @@ public class BMFeatures {
             mutable.getGenerationProperties().addFeature(GenerationStep.Decoration.TOP_LAYER_MODIFICATION, key("dark_forest/itching_ivy"));
             mutable.getGenerationProperties().addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, key("dark_forest/trees"));
             mutable.getGenerationProperties().addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, key("dark_forest/wild_mushrooms"));
-
+            mutable.getGenerationProperties().addFeature(GenerationStep.Decoration.LOCAL_MODIFICATIONS, key("dark_forest/mesmerite_boulder"));
             mutable.getGenerationProperties().addFeature(GenerationStep.Decoration.LOCAL_MODIFICATIONS, key("dark_forest/mesmerite_fissure"));
         });
     }
